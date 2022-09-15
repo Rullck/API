@@ -9,4 +9,4 @@ Como funciona:
 
 Aluno: Ao abrir a pagina o aluno irá se deparar com formulario onde ele terá as 5 estrelas para avaliar e caso queria abaixo tera um espaço para ele escrever um comentario
 
-Professor: Ao abrir a pagina o professor tera que clicar em adm e colocar seu login assim acessando as avaliações dps alunos.
+Professor: Ao abrir a pagina o professor tera que clicar em adm e colocar seu login assim acessando as avaliações dos alunos.
